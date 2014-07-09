@@ -29,7 +29,7 @@ PROJECT SPECIFICATION: https://docs.google.com/document/d/1KdTkmhfnis2_qpNFDPgx-
 
 9) Once the App is up and running on both the AVDs, the tester may play around with it.
 
-10) Typetext in Edit Text given in the bottom of the App in the AVD.
+10) Type some text in Edit Text given in the bottom of the App in the AVD.
 
 11) Press Enter Key and BAM!! the other AVD receives the text. Same goes with the other AVD.
 
