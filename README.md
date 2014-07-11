@@ -5,6 +5,8 @@ Simple Chatting Applications to simulate communication between two Android Devic
 
 PROJECT SPECIFICATION: https://docs.google.com/document/d/1KdTkmhfnis2_qpNFDPgx-L7PUWEM7n8HrG62Hdyhs0M/pub
 
+TEST SCRIPTS: The test scripts (Depending on the Operating System) can be downloaded from the links provided in the project specifications.
+
 11 STEPS TO REALIZE THIS PROJECT:
 
 1) Check the directory "Test Scripts for Project".
